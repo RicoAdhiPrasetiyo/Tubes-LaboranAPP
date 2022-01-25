@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "756172399964",
+    "firebase_url": "https://laboran-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "laboran-app",
+    "storage_bucket": "laboran-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756172399964:android:bb30a45c3be22c2a874d99",
+        "android_client_info": {
+          "package_name": "com.example.tugas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756172399964-3fbrf9cd2iivllnaph1nhdo9057b3lev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiMj-5CC6gpYpuOLrNeiDQAHt0uqja0Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756172399964-3fbrf9cd2iivllnaph1nhdo9057b3lev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
